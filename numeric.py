@@ -1,4 +1,5 @@
 #Name: Jose Melquiades Escobar
+#2021 Fall Semester
 
 #make magic numbers into named constant
 userInputOne = 1
